@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Building_mat",
+    "slug": "Building_mat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logostart.png",
+      "resizeMode": "contain",
+      "imageResizeMode": "contain",
+      "iconResizeMode": "contain",
+      "backgroungcolor": "#8F6E5D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dpa2003.Building_mat"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "16cdde0d-b263-4e7f-bfdc-7c2359b03def"
+      }
+    }
+  }
+}
